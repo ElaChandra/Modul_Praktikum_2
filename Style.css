@@ -1,0 +1,54 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.border-sample{
+    border:groove aquamarine!important;
+}
+body{
+    font-family: 'New Tegomin', serif;
+    color: #000000;
+    font-size: 20px;
+}
+header{
+    color: black;
+    font-size: 30px;
+    padding: 22px;
+    background-color: cornsilk;
+}
+footer{
+    color: #f80a0afd;
+    font-size: 22px;
+    padding: 24px;
+    background-color: rgba(27, 192, 49, 0.788);
+}
+.container{
+    padding: 21px;
+}
+h1{
+    font-family:'Dancing Script', cursive;
+    margin-bottom: 23px;
+}
+
+h3{
+    font-family:'Caveat', cursive;
+    margin-bottom: 23px;
+}
+
+.content{
+    margin-bottom: 32px;
+    text-align: justify;
+}
+p{
+    margin-bottom: 15px;
+}
+section{
+    margin-bottom: 25px;
+    padding: 16px;
+    font-size: 18px;
+    width: 200px;
+}
+.section-container{
+    display: flex;
+    justify-content: space-evenly;
+}
